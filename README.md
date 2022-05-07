@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Baloo+2&size=40&color=000000&width=397&height=69&lines=Hi!+I'm+Ela+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-![](https://img.shields.io/github/followers/Ela-Kan?label=Github%20followers&style=for-the-badge")
+
 ![](https://komarev.com/ghpvc/?username=Ela-Kan&style=for-the-badge)
 
 I'm an MSc student in Medical Robotics and Artificial Intelligence at University College London (UCL). Professionally, I'm interested in robotic applications in surgery. Feel free to check out my academic and personal projects!
