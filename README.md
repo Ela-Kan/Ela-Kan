@@ -5,7 +5,11 @@
 
 I'm an MSc student in Medical Robotics and Artificial Intelligence at University College London (UCL). Professionally, I'm interested in robotic applications in surgery. Feel free to check out my academic and personal projects!
 
+
 ## About Me
+
+<a href="https://www.linkedin.com/in/ela-kanani/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="http://www.linkedin.com/in/anjali-pal-24246214a" height="100" width="120" /></a>
+</p>
 
 ```python
 class ElaKanani():
@@ -37,15 +41,15 @@ if __name__ == '__main__':
 
 ## Stats
 
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Ela-Kan&theme=react-dark&hide_border=true&area=true)
+
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ela-Kan&theme=gotham&show_icons=true"/>
 
 <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Ela-Kan&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Ela-Kan&theme=react-dark&hide_border=true&area=true)
 
   
-  
----
+
 
 
 
