@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Ela-Kan&style=for-the-badge)
 
-I'm an MSc student in Medical Robotics and Artificial Intelligence at University College London (UCL). Professionally, I'm interested in robotic applications in surgery. Feel free to check out my academic and personal projects!
+I'm an MSc student in Medical Robotics and Artificial Intelligence at University College London (UCL). I'm interested in robotic applications in surgery! Feel free to check out my academic and personal projects!
 
 
 ## About Me
