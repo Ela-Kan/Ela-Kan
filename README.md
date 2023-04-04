@@ -8,7 +8,7 @@ I'm a current MRes/PhD candidate on the i4Health program at UCL, focussed on nov
 
 ## About Me
 
-<a href="https://www.linkedin.com/in/ela-kanani/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="http://www.linkedin.com/in/anjali-pal-24246214a" height="75" width="120" /></a>
+<a href="https://www.linkedin.com/in/ela-kanani/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="http://www.linkedin.com/in/anjali-pal-24246214a" height="30" width="120" /></a>
 </p>
 
 ```python
