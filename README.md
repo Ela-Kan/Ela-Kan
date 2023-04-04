@@ -3,12 +3,12 @@
 
 ![](https://komarev.com/ghpvc/?username=Ela-Kan&style=for-the-badge)
 
-I'm an MSc student in Medical Robotics and Artificial Intelligence at University College London (UCL). I'm interested in robotic applications in surgery! Feel free to check out my academic and personal projects!
+I'm a current MRes/PhD candidate on the i4Health program at UCL, focussed on novel MRI acquisition and analysis methods for sensitive detection of dementia treatment side effects. Feel free to check out my academic and personal projects!
 
 
 ## About Me
 
-<a href="https://www.linkedin.com/in/ela-kanani/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="http://www.linkedin.com/in/anjali-pal-24246214a" height="100" width="120" /></a>
+<a href="https://www.linkedin.com/in/ela-kanani/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="http://www.linkedin.com/in/anjali-pal-24246214a" height="75" width="120" /></a>
 </p>
 
 ```python
