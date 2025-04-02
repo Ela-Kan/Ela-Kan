@@ -3,29 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Ela-Kan&style=for-the-badge)
 
-I'm a current MRes/PhD candidate on the i4Health program at UCL, focussed on novel MRI acquisition and analysis methods for sensitive detection of dementia treatment side effects. Feel free to check out my academic and personal projects!
-
-
-## About Me
-
-<a href="https://www.linkedin.com/in/ela-kanani/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="http://www.linkedin.com/in/anjali-pal-24246214a" height="30" width="120" /></a>
-</p>
-
-```python
-class ElaKanani():
-    
-  def __init__(self):
-    self.name = "Ela Kanani";
-    self.username = "Ela-Kan";
-    self.location = "London, England";
-    self.web = "COMING SOON";
-  
-  def __str__(self):
-    return self.name
-
-if __name__ == '__main__':
-    me = ElaKanani()
-```
+I'm a PhD student on the i4Health program at UCL, focused on developing novel MRI acquisition and analysis methods for sensitive detection of dementia treatment side effects. Feel free to check out my academic and personal projects!
 
 ## Languages and Tools
 ![MATLAB](https://img.shields.io/badge/MATLAB-3776AB?style=for-the-badge&logo=MATLAB&logoColor=white)
@@ -39,16 +17,8 @@ if __name__ == '__main__':
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ela-Kan&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330"/></p>
 
-## Stats
-
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Ela-Kan&theme=react-dark&hide_border=true&area=true)
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ela-Kan&theme=gotham&show_icons=true"/>
-
-<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Ela-Kan&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-
-
-  
+## Social
+<a href="https://www.linkedin.com/in/ela-kanani/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="http://www.linkedin.com/in/anjali-pal-24246214a" height="30" width="120" /></a>
 
 
 
