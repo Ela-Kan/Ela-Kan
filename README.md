@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Baloo+2&size=40&color=000000&width=397&height=69&lines=Hi!+I'm+Ela+%F0%9F%91%8B)](https://git.io/typing-svg)
 
+<a href="https://www.linkedin.com/in/ela-kanani/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="http://www.linkedin.com/in/anjali-pal-24246214a" height="30" width="120" /></a>
+
 
 ![](https://komarev.com/ghpvc/?username=Ela-Kan&style=for-the-badge)
 
@@ -15,10 +17,8 @@ I'm a PhD student on the i4Health program at UCL, focused on developing novel MR
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ela-Kan&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330"/></p>
 
-## Social
-<a href="https://www.linkedin.com/in/ela-kanani/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="http://www.linkedin.com/in/anjali-pal-24246214a" height="30" width="120" /></a>
+
 
 
 
